@@ -152,11 +152,12 @@ function parseXmlGuide(xmlText) {
 }
 
 async function run() {
-  const mappingPath = path.join(__dirname, '../data/dlhd_mapping.json');
-  const outputPath = path.join(__dirname, '../public/schedule.js');
+  // FIXED: Removed ../ so Node looks in the current repo directory
+  const mappingPath = path.join(__dirname, 'data', 'dlhd_mapping.json');
+  const outputPath = path.join(__dirname, 'public', 'schedule.js');
 
   if (!fs.existsSync(mappingPath)) {
-    console.error('Error: data/dlhd_mapping.json not found.');
+    console.error('Error: data/dlhd_mapping.json not found at ' + mappingPath);
     process.exit(1);
   }
 
