@@ -19,7 +19,14 @@ jobs:
       - name: Setup Node.js
         uses: actions/setup-node@v4
         with:
-          node-version: '20'
+          node-version: '22'
+
+      - name: Install Dependencies
+        run: |
+          if [ -f package.json ]; then npm install; fi
+
+      - name: Create public directory
+        run: mkdir -p public
 
       - name: Run Fetch Schedule
         run: node fetchSchedule.js
