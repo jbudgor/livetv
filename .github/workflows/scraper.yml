@@ -1,40 +1,30 @@
-name: Run LiveTV Scraper
+name: LiveTV Scraper
 
 on:
   schedule:
-    # Runs automatically every 30 minutes
+    # Runs every 30 minutes
     - cron: '*/30 * * * *'
-  workflow_dispatch: # Allows manual trigger button
-
-permissions:
-  contents: write
+  workflow_dispatch: # Allows manual trigger from the Actions tab
 
 jobs:
   scrape:
     runs-on: ubuntu-latest
+
     steps:
-      - name: Checkout Repository
-        uses: actions/checkout@v4
+      - name: Checkout repository
+        uses: actions/checkout@v5
 
-      - name: Setup Node.js
-        uses: actions/setup-node@v4
+      - name: Set up Node.js
+        uses: actions/setup-node@v5
         with:
-          node-version: '22'
+          node-version: '24'
 
-      - name: Install Dependencies
-        run: |
-          if [ -f package.json ]; then npm install; fi
-
-      - name: Create public directory
-        run: mkdir -p public
-
-      - name: Run Fetch Schedule
+      - name: Run schedule scraper
         run: node fetchSchedule.js
 
-      - name: Commit and Push Updated Schedule
+      - name: Commit and push generated schedule
         run: |
-          git config --global user.name "github-actions[bot]"
-          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
           git add public/schedule.js
-          git commit -m "Auto-update schedule" || exit 0
-          git push
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Auto-update schedule.js [skip ci]" && git push)
