@@ -1,5 +1,5 @@
 window.SCHEDULE_DATA = {
-  "generatedAt": "2026-08-14T22:30:12.107Z",
+  "generatedAt": "2026-08-14T22:55:12.010Z",
   "timeSlots": [
     "10:30 PM",
     "11:00 PM",
