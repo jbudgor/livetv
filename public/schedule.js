@@ -1,9 +1,9 @@
 window.SCHEDULE_DATA = {
-  "generatedAt": "2026-09-01T13:23:58.797Z",
+  "generatedAt": "2026-09-01T17:24:36.252Z",
   "timeSlots": [
-    "01:00 PM",
-    "01:30 PM",
-    "02:00 PM"
+    "05:00 PM",
+    "05:30 PM",
+    "06:00 PM"
   ],
   "stations": {
     "ABC USA": {
@@ -11,16 +11,16 @@ window.SCHEDULE_DATA = {
       "url": "/watch.php?id=51",
       "slots": [
         {
-          "label": "01:00 PM",
-          "program": "ABC News Live First"
+          "label": "05:00 PM",
+          "program": "GMA3"
         },
         {
-          "label": "01:30 PM",
-          "program": "ABC News Live First"
+          "label": "05:30 PM",
+          "program": "GMA3"
         },
         {
-          "label": "02:00 PM",
-          "program": "ABC News Live First"
+          "label": "06:00 PM",
+          "program": "General Hospital"
         }
       ]
     },
@@ -29,16 +29,16 @@ window.SCHEDULE_DATA = {
       "url": "/watch.php?id=302",
       "slots": [
         {
-          "label": "01:00 PM",
-          "program": "DSCVR New Music"
+          "label": "05:00 PM",
+          "program": "Trap House"
         },
         {
-          "label": "01:30 PM",
-          "program": "DSCVR New Music"
+          "label": "05:30 PM",
+          "program": "Trap House"
         },
         {
-          "label": "02:00 PM",
-          "program": "Chill Reggaeton"
+          "label": "06:00 PM",
+          "program": "What&apos;s Hot"
         }
       ]
     },
@@ -47,15 +47,15 @@ window.SCHEDULE_DATA = {
       "url": "/watch.php?id=303",
       "slots": [
         {
-          "label": "01:00 PM",
+          "label": "05:00 PM",
           "program": "True Crime Story"
         },
         {
-          "label": "01:30 PM",
+          "label": "05:30 PM",
           "program": "True Crime Story"
         },
         {
-          "label": "02:00 PM",
+          "label": "06:00 PM",
           "program": "True Crime Story"
         }
       ]
@@ -65,15 +65,15 @@ window.SCHEDULE_DATA = {
       "url": "/watch.php?id=307",
       "slots": [
         {
-          "label": "01:00 PM",
+          "label": "05:00 PM",
           "program": "The Real Housewives of New York City"
         },
         {
-          "label": "01:30 PM",
+          "label": "05:30 PM",
           "program": "The Real Housewives of New York City"
         },
         {
-          "label": "02:00 PM",
+          "label": "06:00 PM",
           "program": "The Real Housewives of New York City"
         }
       ]
@@ -83,16 +83,16 @@ window.SCHEDULE_DATA = {
       "url": "/watch.php?id=52",
       "slots": [
         {
-          "label": "01:00 PM",
-          "program": "CBS News 24/7 Mornings"
+          "label": "05:00 PM",
+          "program": "The Price Is Right"
         },
         {
-          "label": "01:30 PM",
-          "program": "CBS News Mornings"
+          "label": "05:30 PM",
+          "program": "The Price Is Right"
         },
         {
-          "label": "02:00 PM",
-          "program": "CBS Mornings"
+          "label": "06:00 PM",
+          "program": "Beyond the Gates"
         }
       ]
     },
@@ -101,16 +101,16 @@ window.SCHEDULE_DATA = {
       "url": "/watch.php?id=300",
       "slots": [
         {
-          "label": "01:00 PM",
-          "program": "Daily Flash"
+          "label": "05:00 PM",
+          "program": "The Bill Cunningham Show"
         },
         {
-          "label": "01:30 PM",
-          "program": "Daily Flash"
+          "label": "05:30 PM",
+          "program": "The Bill Cunningham Show"
         },
         {
-          "label": "02:00 PM",
-          "program": "The Robert Irvine Show"
+          "label": "06:00 PM",
+          "program": "The Bill Cunningham Show"
         }
       ]
     },
@@ -119,16 +119,16 @@ window.SCHEDULE_DATA = {
       "url": "/watch.php?id=309",
       "slots": [
         {
-          "label": "01:00 PM",
-          "program": "Live: Squawk on the Street"
+          "label": "05:00 PM",
+          "program": "Live: The Exchange"
         },
         {
-          "label": "01:30 PM",
-          "program": "Live: Squawk on the Street"
+          "label": "05:30 PM",
+          "program": "Live: The Exchange"
         },
         {
-          "label": "02:00 PM",
-          "program": "Live: Squawk on the Street"
+          "label": "06:00 PM",
+          "program": "Live: Power Lunch"
         }
       ]
     },
@@ -137,16 +137,16 @@ window.SCHEDULE_DATA = {
       "url": "/watch.php?id=310",
       "slots": [
         {
-          "label": "01:00 PM",
+          "label": "05:00 PM",
           "program": "South Park"
         },
         {
-          "label": "01:30 PM",
+          "label": "05:30 PM",
           "program": "South Park"
         },
         {
-          "label": "02:00 PM",
-          "program": "South Park"
+          "label": "06:00 PM",
+          "program": "Family Guy"
         }
       ]
     },
@@ -155,16 +155,16 @@ window.SCHEDULE_DATA = {
       "url": "/watch.php?id=345",
       "slots": [
         {
-          "label": "01:00 PM",
+          "label": "05:00 PM",
           "program": "Live: CNN News Central"
         },
         {
-          "label": "01:30 PM",
+          "label": "05:30 PM",
           "program": "Live: CNN News Central"
         },
         {
-          "label": "02:00 PM",
-          "program": "Live: The Situation Room"
+          "label": "06:00 PM",
+          "program": "Live: CNN News Central"
         }
       ]
     },
@@ -173,16 +173,16 @@ window.SCHEDULE_DATA = {
       "url": "/watch.php?id=374",
       "slots": [
         {
-          "label": "01:00 PM",
-          "program": "Man Down"
+          "label": "05:00 PM",
+          "program": "The Maltese Falcon"
         },
         {
-          "label": "01:30 PM",
-          "program": "Man Down"
+          "label": "05:30 PM",
+          "program": "The Maltese Falcon"
         },
         {
-          "label": "02:00 PM",
-          "program": "Man Down"
+          "label": "06:00 PM",
+          "program": "The Outsiders"
         }
       ]
     },
@@ -191,16 +191,16 @@ window.SCHEDULE_DATA = {
       "url": "/watch.php?id=44",
       "slots": [
         {
-          "label": "01:00 PM",
-          "program": "Live: Get Up"
+          "label": "05:00 PM",
+          "program": "Live: 2026 US Open Tennis"
         },
         {
-          "label": "01:30 PM",
-          "program": "Live: Get Up"
+          "label": "05:30 PM",
+          "program": "Live: 2026 US Open Tennis"
         },
         {
-          "label": "02:00 PM",
-          "program": "Live: First Take"
+          "label": "06:00 PM",
+          "program": "Live: 2026 US Open Tennis"
         }
       ]
     },
@@ -209,16 +209,16 @@ window.SCHEDULE_DATA = {
       "url": "/watch.php?id=45",
       "slots": [
         {
-          "label": "01:00 PM",
-          "program": "SportsCenter"
+          "label": "05:00 PM",
+          "program": "Live: The Pat McAfee Show"
         },
         {
-          "label": "01:30 PM",
-          "program": "SportsCenter"
+          "label": "05:30 PM",
+          "program": "Live: The Pat McAfee Show"
         },
         {
-          "label": "02:00 PM",
-          "program": "Get Up"
+          "label": "06:00 PM",
+          "program": "Always College Football"
         }
       ]
     },
@@ -227,16 +227,16 @@ window.SCHEDULE_DATA = {
       "url": "/watch.php?id=39",
       "slots": [
         {
-          "label": "01:00 PM",
-          "program": "Live: Wake Up Barstool"
+          "label": "05:00 PM",
+          "program": "Live: The Herd With Colin Cowherd"
         },
         {
-          "label": "01:30 PM",
-          "program": "Live: Wake Up Barstool"
+          "label": "05:30 PM",
+          "program": "Live: The Herd With Colin Cowherd"
         },
         {
-          "label": "02:00 PM",
-          "program": "Wake Up Barstool"
+          "label": "06:00 PM",
+          "program": "Live: The Herd With Colin Cowherd"
         }
       ]
     },
@@ -245,16 +245,16 @@ window.SCHEDULE_DATA = {
       "url": "/watch.php?id=54",
       "slots": [
         {
-          "label": "01:00 PM",
-          "program": "Live: Wake Up Barstool"
+          "label": "05:00 PM",
+          "program": "Live: The Herd With Colin Cowherd"
         },
         {
-          "label": "01:30 PM",
-          "program": "Live: Wake Up Barstool"
+          "label": "05:30 PM",
+          "program": "Live: The Herd With Colin Cowherd"
         },
         {
-          "label": "02:00 PM",
-          "program": "Wake Up Barstool"
+          "label": "06:00 PM",
+          "program": "Live: The Herd With Colin Cowherd"
         }
       ]
     },
@@ -263,16 +263,16 @@ window.SCHEDULE_DATA = {
       "url": "/watch.php?id=317",
       "slots": [
         {
-          "label": "01:00 PM",
-          "program": "X-Men"
+          "label": "05:00 PM",
+          "program": "Fantastic Four"
         },
         {
-          "label": "01:30 PM",
-          "program": "X2"
+          "label": "05:30 PM",
+          "program": "Fantastic Four"
         },
         {
-          "label": "02:00 PM",
-          "program": "X2"
+          "label": "06:00 PM",
+          "program": "Fantastic Four"
         }
       ]
     },
@@ -281,16 +281,16 @@ window.SCHEDULE_DATA = {
       "url": "/watch.php?id=298",
       "slots": [
         {
-          "label": "01:00 PM",
-          "program": "Transporter 2"
+          "label": "05:00 PM",
+          "program": "Bloodshot"
         },
         {
-          "label": "01:30 PM",
-          "program": "Transporter 2"
+          "label": "05:30 PM",
+          "program": "The Simpsons"
         },
         {
-          "label": "02:00 PM",
-          "program": "Transporter 2"
+          "label": "06:00 PM",
+          "program": "The Simpsons"
         }
       ]
     },
@@ -299,16 +299,16 @@ window.SCHEDULE_DATA = {
       "url": "/watch.php?id=301",
       "slots": [
         {
-          "label": "01:00 PM",
-          "program": "The 700 Club"
+          "label": "05:00 PM",
+          "program": "It Ends With Us"
         },
         {
-          "label": "01:30 PM",
-          "program": "The 700 Club"
+          "label": "05:30 PM",
+          "program": "The Waterboy"
         },
         {
-          "label": "02:00 PM",
-          "program": "CBN Newswatch"
+          "label": "06:00 PM",
+          "program": "The Waterboy"
         }
       ]
     },
@@ -317,16 +317,16 @@ window.SCHEDULE_DATA = {
       "url": "/watch.php?id=381",
       "slots": [
         {
-          "label": "01:00 PM",
-          "program": "The Hustler"
+          "label": "05:00 PM",
+          "program": "Quintet"
         },
         {
-          "label": "01:30 PM",
-          "program": "The Hustler"
+          "label": "05:30 PM",
+          "program": "Quintet"
         },
         {
-          "label": "02:00 PM",
-          "program": "Race With the Devil"
+          "label": "06:00 PM",
+          "program": "Quintet"
         }
       ]
     },
@@ -335,16 +335,16 @@ window.SCHEDULE_DATA = {
       "url": "/watch.php?id=321",
       "slots": [
         {
-          "label": "01:00 PM",
+          "label": "05:00 PM",
+          "program": "Monsters of God"
+        },
+        {
+          "label": "05:30 PM",
           "program": "Lanterns"
         },
         {
-          "label": "01:30 PM",
-          "program": "Marc by Sofia"
-        },
-        {
-          "label": "02:00 PM",
-          "program": "Marc by Sofia"
+          "label": "06:00 PM",
+          "program": "Lanterns"
         }
       ]
     },
@@ -353,16 +353,16 @@ window.SCHEDULE_DATA = {
       "url": "/watch.php?id=689",
       "slots": [
         {
-          "label": "01:00 PM",
-          "program": "One Battle After Another"
+          "label": "05:00 PM",
+          "program": "Christy"
         },
         {
-          "label": "01:30 PM",
-          "program": "One Battle After Another"
+          "label": "05:30 PM",
+          "program": "Christy"
         },
         {
-          "label": "02:00 PM",
-          "program": "American Made"
+          "label": "06:00 PM",
+          "program": "Christy"
         }
       ]
     },
@@ -371,16 +371,16 @@ window.SCHEDULE_DATA = {
       "url": "/watch.php?id=690",
       "slots": [
         {
-          "label": "01:00 PM",
-          "program": "John Early: Now More Than Ever"
+          "label": "05:00 PM",
+          "program": "Alex Edelman: Just for Us"
         },
         {
-          "label": "01:30 PM",
-          "program": "John Early: Now More Than Ever"
+          "label": "05:30 PM",
+          "program": "Alex Edelman: Just for Us"
         },
         {
-          "label": "02:00 PM",
-          "program": "Lil Rel Howery: I Said It. Y&apos;all Thinking It."
+          "label": "06:00 PM",
+          "program": "Diary of a Wimpy Kid: Dog Days"
         }
       ]
     },
@@ -389,16 +389,16 @@ window.SCHEDULE_DATA = {
       "url": "/watch.php?id=382",
       "slots": [
         {
-          "label": "01:00 PM",
-          "program": "The Life and Legend of Wyatt Earp"
+          "label": "05:00 PM",
+          "program": "The Virginian"
         },
         {
-          "label": "01:30 PM",
-          "program": "The Life and Legend of Wyatt Earp"
+          "label": "05:30 PM",
+          "program": "The Virginian"
         },
         {
-          "label": "02:00 PM",
-          "program": "Lawman"
+          "label": "06:00 PM",
+          "program": "The Virginian"
         }
       ]
     },
@@ -407,15 +407,15 @@ window.SCHEDULE_DATA = {
       "url": "/watch.php?id=656",
       "slots": [
         {
-          "label": "01:00 PM",
+          "label": "05:00 PM",
           "program": "Night Court"
         },
         {
-          "label": "01:30 PM",
+          "label": "05:30 PM",
           "program": "Night Court"
         },
         {
-          "label": "02:00 PM",
+          "label": "06:00 PM",
           "program": "Night Court"
         }
       ]
@@ -425,16 +425,16 @@ window.SCHEDULE_DATA = {
       "url": "/watch.php?id=327",
       "slots": [
         {
-          "label": "01:00 PM",
-          "program": "Live: Money, Power, Politics With Stephanie Ruhle"
+          "label": "05:00 PM",
+          "program": "Live: On the Line With Alicia Menendez"
         },
         {
-          "label": "01:30 PM",
-          "program": "Live: Money, Power, Politics With Stephanie Ruhle"
+          "label": "05:30 PM",
+          "program": "Live: On the Line With Alicia Menendez"
         },
         {
-          "label": "02:00 PM",
-          "program": "Live: Money, Power, Politics With Stephanie Ruhle"
+          "label": "06:00 PM",
+          "program": "Live: The Moment With Katy Tur"
         }
       ]
     },
@@ -443,16 +443,16 @@ window.SCHEDULE_DATA = {
       "url": "/watch.php?id=399",
       "slots": [
         {
-          "label": "01:00 PM",
-          "program": "Live: The Leadoff Spot"
+          "label": "05:00 PM",
+          "program": "MLB Central"
         },
         {
-          "label": "01:30 PM",
-          "program": "Live: The Leadoff Spot"
+          "label": "05:30 PM",
+          "program": "MLB Central"
         },
         {
-          "label": "02:00 PM",
-          "program": "Live: MLB Central"
+          "label": "06:00 PM",
+          "program": "MLB Central"
         }
       ]
     },
@@ -461,15 +461,15 @@ window.SCHEDULE_DATA = {
       "url": "/watch.php?id=663",
       "slots": [
         {
-          "label": "01:00 PM",
-          "program": "Breaking Down Barriers"
+          "label": "05:00 PM",
+          "program": "NHL Hockey"
         },
         {
-          "label": "01:30 PM",
-          "program": "Breaking Down Barriers"
+          "label": "05:30 PM",
+          "program": "NHL Hockey"
         },
         {
-          "label": "02:00 PM",
+          "label": "06:00 PM",
           "program": "NHL Hockey"
         }
       ]
@@ -479,15 +479,15 @@ window.SCHEDULE_DATA = {
       "url": "/watch.php?id=667",
       "slots": [
         {
-          "label": "01:00 PM",
+          "label": "05:00 PM",
           "program": "Every Sunday Afternoon"
         },
         {
-          "label": "01:30 PM",
+          "label": "05:30 PM",
           "program": "Every Sunday Afternoon"
         },
         {
-          "label": "02:00 PM",
+          "label": "06:00 PM",
           "program": "Every Sunday Afternoon"
         }
       ]
@@ -497,16 +497,16 @@ window.SCHEDULE_DATA = {
       "url": "/watch.php?id=53",
       "slots": [
         {
-          "label": "01:00 PM",
-          "program": "Live: Money, Power, Politics With Stephanie Ruhle"
+          "label": "05:00 PM",
+          "program": "Live: On the Line With Alicia Menendez"
         },
         {
-          "label": "01:30 PM",
-          "program": "Live: Money, Power, Politics With Stephanie Ruhle"
+          "label": "05:30 PM",
+          "program": "Live: On the Line With Alicia Menendez"
         },
         {
-          "label": "02:00 PM",
-          "program": "Live: Money, Power, Politics With Stephanie Ruhle"
+          "label": "06:00 PM",
+          "program": "Live: The Moment With Katy Tur"
         }
       ]
     },
@@ -515,15 +515,15 @@ window.SCHEDULE_DATA = {
       "url": "/watch.php?id=404",
       "slots": [
         {
-          "label": "01:00 PM",
-          "program": "WNBA Shot Clock: Games of the Week"
+          "label": "05:00 PM",
+          "program": "NBA Shot Clock"
         },
         {
-          "label": "01:30 PM",
-          "program": "NBA Stories"
+          "label": "05:30 PM",
+          "program": "Best of NBA Inside Stuff"
         },
         {
-          "label": "02:00 PM",
+          "label": "06:00 PM",
           "program": "Best of NBA Inside Stuff"
         }
       ]
@@ -533,16 +533,16 @@ window.SCHEDULE_DATA = {
       "url": "/watch.php?id=405",
       "slots": [
         {
-          "label": "01:00 PM",
-          "program": "Live: Good Morning Football"
+          "label": "05:00 PM",
+          "program": "NFL Football"
         },
         {
-          "label": "01:30 PM",
-          "program": "Live: Good Morning Football"
+          "label": "05:30 PM",
+          "program": "NFL Football"
         },
         {
-          "label": "02:00 PM",
-          "program": "Good Morning Football"
+          "label": "06:00 PM",
+          "program": "NFL Football"
         }
       ]
     },
@@ -551,15 +551,15 @@ window.SCHEDULE_DATA = {
       "url": "/watch.php?id=334",
       "slots": [
         {
-          "label": "01:00 PM",
+          "label": "05:00 PM",
           "program": "Bar Rescue"
         },
         {
-          "label": "01:30 PM",
+          "label": "05:30 PM",
           "program": "Bar Rescue"
         },
         {
-          "label": "02:00 PM",
+          "label": "06:00 PM",
           "program": "Bar Rescue"
         }
       ]
@@ -569,16 +569,16 @@ window.SCHEDULE_DATA = {
       "url": "/watch.php?id=653",
       "slots": [
         {
-          "label": "01:00 PM",
-          "program": "NCIS"
+          "label": "05:00 PM",
+          "program": "Criminal Minds"
         },
         {
-          "label": "01:30 PM",
-          "program": "NCIS"
+          "label": "05:30 PM",
+          "program": "Criminal Minds"
         },
         {
-          "label": "02:00 PM",
-          "program": "NCIS"
+          "label": "06:00 PM",
+          "program": "Criminal Minds"
         }
       ]
     },
@@ -587,16 +587,16 @@ window.SCHEDULE_DATA = {
       "url": "/watch.php?id=210",
       "slots": [
         {
-          "label": "01:00 PM",
-          "program": "Work It Out Wombats!"
+          "label": "05:00 PM",
+          "program": "Elinor Wonders Why"
         },
         {
-          "label": "01:30 PM",
-          "program": "Work It Out Wombats!"
+          "label": "05:30 PM",
+          "program": "Rosie&apos;s Rules"
         },
         {
-          "label": "02:00 PM",
-          "program": "Daniel Tiger&apos;s Neighborhood"
+          "label": "06:00 PM",
+          "program": "Phoebe &amp; Jay"
         }
       ]
     },
@@ -605,16 +605,16 @@ window.SCHEDULE_DATA = {
       "url": "/watch.php?id=970",
       "slots": [
         {
-          "label": "01:00 PM",
-          "program": "Burn"
+          "label": "05:00 PM",
+          "program": "Road to Paloma"
         },
         {
-          "label": "01:30 PM",
-          "program": "Burn"
+          "label": "05:30 PM",
+          "program": "Making the Rules"
         },
         {
-          "label": "02:00 PM",
-          "program": "Silver Linings Playbook"
+          "label": "06:00 PM",
+          "program": "Making the Rules"
         }
       ]
     },
@@ -623,16 +623,16 @@ window.SCHEDULE_DATA = {
       "url": "/watch.php?id=971",
       "slots": [
         {
-          "label": "01:00 PM",
-          "program": "Immigration Tango"
+          "label": "05:00 PM",
+          "program": "Zookeeper"
         },
         {
-          "label": "01:30 PM",
-          "program": "Immigration Tango"
+          "label": "05:30 PM",
+          "program": "Zookeeper"
         },
         {
-          "label": "02:00 PM",
-          "program": "Immigration Tango"
+          "label": "06:00 PM",
+          "program": "Still Waiting ..."
         }
       ]
     },
@@ -641,16 +641,16 @@ window.SCHEDULE_DATA = {
       "url": "/watch.php?id=333",
       "slots": [
         {
-          "label": "01:00 PM",
-          "program": "Haunter"
+          "label": "05:00 PM",
+          "program": "Restoration"
         },
         {
-          "label": "01:30 PM",
-          "program": "Haunter"
+          "label": "05:30 PM",
+          "program": "Restoration"
         },
         {
-          "label": "02:00 PM",
-          "program": "Indecent Proposal"
+          "label": "06:00 PM",
+          "program": "Bridget Jones&apos;s Baby"
         }
       ]
     },
@@ -659,16 +659,16 @@ window.SCHEDULE_DATA = {
       "url": "/watch.php?id=335",
       "slots": [
         {
-          "label": "01:00 PM",
-          "program": "Waterworld"
+          "label": "05:00 PM",
+          "program": "The Da Vinci Code"
         },
         {
-          "label": "01:30 PM",
-          "program": "Waterworld"
+          "label": "05:30 PM",
+          "program": "The Da Vinci Code"
         },
         {
-          "label": "02:00 PM",
-          "program": "Waterworld"
+          "label": "06:00 PM",
+          "program": "The Da Vinci Code"
         }
       ]
     },
@@ -677,16 +677,16 @@ window.SCHEDULE_DATA = {
       "url": "/watch.php?id=373",
       "slots": [
         {
-          "label": "01:00 PM",
-          "program": "It Follows"
+          "label": "05:00 PM",
+          "program": "Texas Chainsaw 3D"
         },
         {
-          "label": "01:30 PM",
-          "program": "It Follows"
+          "label": "05:30 PM",
+          "program": "Texas Chainsaw 3D"
         },
         {
-          "label": "02:00 PM",
-          "program": "Old"
+          "label": "06:00 PM",
+          "program": "Texas Chainsaw 3D"
         }
       ]
     },
@@ -695,16 +695,16 @@ window.SCHEDULE_DATA = {
       "url": "/watch.php?id=658",
       "slots": [
         {
-          "label": "01:00 PM",
-          "program": "The A-Team"
+          "label": "05:00 PM",
+          "program": "Law &amp; Order"
         },
         {
-          "label": "01:30 PM",
-          "program": "The A-Team"
+          "label": "05:30 PM",
+          "program": "Law &amp; Order"
         },
         {
-          "label": "02:00 PM",
-          "program": "The A-Team"
+          "label": "06:00 PM",
+          "program": "Law &amp; Order"
         }
       ]
     },
@@ -713,16 +713,16 @@ window.SCHEDULE_DATA = {
       "url": "/watch.php?id=794",
       "slots": [
         {
-          "label": "01:00 PM",
-          "program": "All Up in the Biz"
+          "label": "05:00 PM",
+          "program": "The Cut"
         },
         {
-          "label": "01:30 PM",
-          "program": "All Up in the Biz"
+          "label": "05:30 PM",
+          "program": "The Cut"
         },
         {
-          "label": "02:00 PM",
-          "program": "The Firm"
+          "label": "06:00 PM",
+          "program": "Gangs of New York"
         }
       ]
     },
@@ -731,15 +731,15 @@ window.SCHEDULE_DATA = {
       "url": "/watch.php?id=336",
       "slots": [
         {
-          "label": "01:00 PM",
-          "program": "Young Sheldon"
+          "label": "05:00 PM",
+          "program": "Friends"
         },
         {
-          "label": "01:30 PM",
-          "program": "Young Sheldon"
+          "label": "05:30 PM",
+          "program": "Friends"
         },
         {
-          "label": "02:00 PM",
+          "label": "06:00 PM",
           "program": "Friends"
         }
       ]
@@ -749,15 +749,15 @@ window.SCHEDULE_DATA = {
       "url": "/watch.php?id=338",
       "slots": [
         {
-          "label": "01:00 PM",
-          "program": "Charmed"
+          "label": "05:00 PM",
+          "program": "Cold Case"
         },
         {
-          "label": "01:30 PM",
-          "program": "Charmed"
+          "label": "05:30 PM",
+          "program": "Cold Case"
         },
         {
-          "label": "02:00 PM",
+          "label": "06:00 PM",
           "program": "Cold Case"
         }
       ]
@@ -767,16 +767,16 @@ window.SCHEDULE_DATA = {
       "url": "/watch.php?id=340",
       "slots": [
         {
-          "label": "01:00 PM",
-          "program": "Destination Fear"
+          "label": "05:00 PM",
+          "program": "My Haunted Hometown"
         },
         {
-          "label": "01:30 PM",
-          "program": "Destination Fear"
+          "label": "05:30 PM",
+          "program": "My Haunted Hometown"
         },
         {
-          "label": "02:00 PM",
-          "program": "Destination Fear"
+          "label": "06:00 PM",
+          "program": "My Haunted Hometown"
         }
       ]
     },
@@ -785,15 +785,15 @@ window.SCHEDULE_DATA = {
       "url": "/watch.php?id=341",
       "slots": [
         {
-          "label": "01:00 PM",
+          "label": "05:00 PM",
           "program": "Impractical Jokers"
         },
         {
-          "label": "01:30 PM",
+          "label": "05:30 PM",
           "program": "Impractical Jokers"
         },
         {
-          "label": "02:00 PM",
+          "label": "06:00 PM",
           "program": "Impractical Jokers"
         }
       ]
@@ -803,16 +803,16 @@ window.SCHEDULE_DATA = {
       "url": "/watch.php?id=342",
       "slots": [
         {
-          "label": "01:00 PM",
-          "program": "M*A*S*H"
+          "label": "05:00 PM",
+          "program": "Gunsmoke"
         },
         {
-          "label": "01:30 PM",
-          "program": "M*A*S*H"
+          "label": "05:30 PM",
+          "program": "Gunsmoke"
         },
         {
-          "label": "02:00 PM",
-          "program": "M*A*S*H"
+          "label": "06:00 PM",
+          "program": "Gunsmoke"
         }
       ]
     },
@@ -821,16 +821,16 @@ window.SCHEDULE_DATA = {
       "url": "/watch.php?id=644",
       "slots": [
         {
-          "label": "01:00 PM",
-          "program": "Carnival Story"
+          "label": "05:00 PM",
+          "program": "Gangster Story"
         },
         {
-          "label": "01:30 PM",
-          "program": "Exclusive Story"
+          "label": "05:30 PM",
+          "program": "Gangster Story"
         },
         {
-          "label": "02:00 PM",
-          "program": "Exclusive Story"
+          "label": "06:00 PM",
+          "program": "Gangster Story"
         }
       ]
     },
@@ -839,16 +839,16 @@ window.SCHEDULE_DATA = {
       "url": "/watch.php?id=698",
       "slots": [
         {
-          "label": "01:00 PM",
-          "program": "The Violent Heart"
+          "label": "05:00 PM",
+          "program": "Everybody Wants Some!!"
         },
         {
-          "label": "01:30 PM",
-          "program": "The Violent Heart"
+          "label": "05:30 PM",
+          "program": "Everybody Wants Some!!"
         },
         {
-          "label": "02:00 PM",
-          "program": "The Tribes of Palos Verdes"
+          "label": "06:00 PM",
+          "program": "Everybody Wants Some!!"
         }
       ]
     },
@@ -857,16 +857,16 @@ window.SCHEDULE_DATA = {
       "url": "/watch.php?id=394",
       "slots": [
         {
-          "label": "01:00 PM",
+          "label": "05:00 PM",
           "program": "America&apos;s Morning Headquarters"
         },
         {
-          "label": "01:30 PM",
+          "label": "05:30 PM",
           "program": "America&apos;s Morning Headquarters"
         },
         {
-          "label": "02:00 PM",
-          "program": "America&apos;s Morning Headquarters"
+          "label": "06:00 PM",
+          "program": "The Weather Channel LIVE"
         }
       ]
     },
@@ -875,15 +875,15 @@ window.SCHEDULE_DATA = {
       "url": "/watch.php?id=343",
       "slots": [
         {
-          "label": "01:00 PM",
+          "label": "05:00 PM",
           "program": "Law &amp; Order: Special Victims Unit"
         },
         {
-          "label": "01:30 PM",
+          "label": "05:30 PM",
           "program": "Law &amp; Order: Special Victims Unit"
         },
         {
-          "label": "02:00 PM",
+          "label": "06:00 PM",
           "program": "Law &amp; Order: Special Victims Unit"
         }
       ]
@@ -893,16 +893,16 @@ window.SCHEDULE_DATA = {
       "url": "/watch.php?id=659",
       "slots": [
         {
-          "label": "01:00 PM",
-          "program": "Beerland"
+          "label": "05:00 PM",
+          "program": "Dark Side of the Ring"
         },
         {
-          "label": "01:30 PM",
-          "program": "Beerland"
+          "label": "05:30 PM",
+          "program": "Dark Side of the Ring"
         },
         {
-          "label": "02:00 PM",
-          "program": "Beerland"
+          "label": "06:00 PM",
+          "program": "Dark Side of the Ring"
         }
       ]
     },
@@ -911,15 +911,15 @@ window.SCHEDULE_DATA = {
       "url": "/watch.php?id=763",
       "slots": [
         {
-          "label": "01:00 PM",
+          "label": "05:00 PM",
           "program": "MLB Baseball"
         },
         {
-          "label": "01:30 PM",
+          "label": "05:30 PM",
           "program": "MLB Baseball"
         },
         {
-          "label": "02:00 PM",
+          "label": "06:00 PM",
           "program": "MLB Baseball"
         }
       ]
